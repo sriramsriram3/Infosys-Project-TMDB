@@ -66,6 +66,8 @@ TMDB Dataset: The Movie Database (TMDB) as the primary data source.
 Contributing
 Contributions are welcome! Feel free to submit a pull request or report issues to improve the project.
 
+![Screenshot 2024-10-21 123007](https://github.com/user-attachments/assets/79555c4c-7757-4c22-b80a-d91685469ae0)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
